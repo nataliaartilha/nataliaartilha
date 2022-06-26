@@ -1,4 +1,4 @@
-### Olá me chamo Natalia Artilha!
+### Olá, eu sou a Natália Artilha!
 
 - 💻 Python | VBA | Power BI | SQL | Excel
 
