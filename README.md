@@ -3,7 +3,7 @@
 - 💻 Python | VBA | Power BI | SQL | Excel
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaartilha&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaartilha&layout=compact&langs_count=16&theme=radical)](https://github.com/leandroartilha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaartilha&layout=compact&langs_count=16&theme=radical)](https://github.com/nataliaartilha/github-readme-stats)
 
 <div style="display: inline_block"><br>
   
