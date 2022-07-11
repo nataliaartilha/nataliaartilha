@@ -2,8 +2,7 @@
 
 - 💻 Python | VBA | Power BI | SQL | Excel
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaartilha&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaartilha&layout=compact&langs_count=16&theme=radical)](https://github.com/nataliaartilha/github-readme-stats)
+| <a href="https://github.com/nataliaartilha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliaartilha&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nataliaartilha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaartilha&layout=compact&theme=radical&hide_border=true" /></a> |
 
 <div style="display: inline_block"><br>
   
